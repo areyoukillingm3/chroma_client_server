@@ -1,3 +1,7 @@
+.DS_Store
+venv
+./server/chroma.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
