@@ -17,6 +17,8 @@ leaving this vague because i just work in linux/osx but install python3.8 howeve
 
 - `python3.8 -m pip install chromadb`
 
+- `cd ..`
+
 - in one terminal run `./server/server.sh`
 
 - in another run `python3.8 ./client/app.py`
