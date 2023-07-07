@@ -9,7 +9,7 @@ leaving this vague because i just work in linux/osx but install python3.8 howeve
 
 - `cd server`
 
-- `git clone git clone https://github.com/chroma-core/chroma.git`
+- `git clone https://github.com/chroma-core/chroma.git`
 
 - `python3.8 -m pip install -r ./chroma/requirements.txt`
 
